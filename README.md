@@ -10,6 +10,9 @@ A command-line based file system that supports **versioning, snapshots, and roll
 - Open `compile.bat` to start the system  
 - Close the `.bat` file window to exit the program  
 
+
+- or install the requirements.txt and `streamlit run app.py`
+
 ---
 
 ## ⚠️ General Rules
